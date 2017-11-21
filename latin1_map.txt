@@ -1,0 +1,84 @@
+code	mapped_to	comment
+$26#1110;	i	strange malformed text, fixed
+\342\200\230	'	' in different encoding, fixed
+<c3><a2><e2><82><ac><c2><a6>		strange malformed text
+<c3><a2><c2><80><c2><99>	'	strange malformed text
+<c3><83><c2><82><c3><82>		strange malformed text
+<e2><80><99>|<e2><80><98>|<e2><80><b2>|<c2><b4>|<c2><92>|<ca><bc>	'	'
+<e2><80><9c>|<e2><80><9d>		"
+<e2><80><9e>		lower "
+<e2><80><93>|<e2><80><94>|<e2><80><92>|<e2><80><91>|<e2><80><90>|<e2><80><95>|<ef><bd><b0>	-	-
+<e2><80><a6>	...	...
+<cd><b5>	,	,
+<c3><b6>	o	o umlaut
+<c3><b4>|<c3><a4>|<c3><84>	a	a umlaut
+<cc><88>|<c3><bc>|<c3><9c>|<c2><81>	u	u umlaut
+<c2><a3>		pound sign
+<e2><82><ac>		EUR sign
+<c2><bd>	half	1/2 symbol
+<c2><bc>	quarter	1/4symbol
+<c2><a2>		cent symbol
+<c3><a0>|<c3><a1>|<c3><a5>|<c4><81>|<c3><85>|<c4><85>|<c3><a3>|<c3><81>|<c3><80>	a	a accented
+<c4><87>|<c3><a7>|<c3><87>	c	c accented
+<c3><a9>|<c3><a8>|<c4><99>|<c3><89>|<c3><88>|<c3><ab>|<c2><8e>	e	e accented
+<c3><ad>|<c3><af>|<c3><8d>|<c3><ac>	i	i accented
+<c5><82>	l	l accented
+<c5><84>|<c3><91>	n	n accented
+<c3><b3>|<c3><96>|<c3><b2>|<c3><93>|<c5><91>|<c3><b5>	o	o accented
+<c3><be>	p	p accented
+<c5><9b>|<e1><b9><a3>|<c5><a1>|<c5><9a>	s 	s accented
+<c3><ba>|<c3><ba>|<c3><b9>|<c5><ab>	u	u accented
+<c3><bd>	y	y accented
+<c5><be>|<c5><bd>	z	z accented
+<c5><93>	oe	oe french
+<c3><86>	ae	ae symbol
+<d0><b0>	a	a encoded differently
+<d0><b5>	e	e encoded differently
+<d0><be>	o	o encoded differently
+<d1><80>	p	p encoded differently
+<d1><95>	s	s encoded differently
+<d1><96>|<ce><b9>	i	i encoded differently
+<c2><ae>		reserved symbol
+<c3><b0>	d	eth
+<c3><b8>|<c2><ba>|<c3><98>	o	o crossed
+<c3><a2>|<c3><82>	a	a hat
+<c3><aa>	e 	e hat
+<c3><ae>|<c3><8e>	i	i hat
+<c3><bb>	u	u hat
+<c5><b7>	y	y hat
+<c2><a5>		yen sign
+<c3><9f>	s	sharp s
+<e2><80><b3>		inch symbol
+<c3><97>	*	multiplication sign
+<c2><ad>		soft hyphen
+<e2><84><a2>		TM sign
+<c2><ab>		<<
+<c2><bb>		>>
+<c2><b0>		degree symbol
+<cb><9a>		degree symbol
+<c3><a6>	ae	ae symbol
+<c2><a7>		legal paragraph symbol
+<d1><83>	y	different encoding
+<d1><81>	c	different encoding
+<c3><b1>	n	n waved
+<c5><8d>|<c5><8c>	o	o waved
+<c2><be>	three quarters	three quarters' symbol
+<e2><98><ba>		smiley symbol
+<c2><a1>	!	inverted exclamation mark
+<c2><bf>	?	inverted question mark
+<cb><9c>		uppercase tilde
+<c2><b2>	 squared	superscript 2
+<ef><bd><9e>		long tilde
+<ef><bf><bc>		space symbol
+<e2><80><8f>		space symbol
+<ef><bf><bd>		question mark symbol
+<ef><ac><81>	fi	strange "fi" encoding
+<ef><ac><80>	ff	strange "ff" encoding
+<ef><ac><82>	fl	strange "fl" encoding
+<c2><a9>		copyright symbol
+<c2><b6>		paragraph symbol
+<c2><b9>		superscript symbol
+<c2><b5>	micro	micro symbol
+<e2><85><93>	third	one third symbol
+<e2><81><84>	/	forward slash
+<e2><99><a5>	 	heart symbol to space
